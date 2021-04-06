@@ -25,31 +25,6 @@ namespace KattisQstopWatch
          */
         static void Main(string[] args)
         {
-            List<int> input = new List<int>() {4,0,2,104,117};
-            int currentTime = 0;
-            int fullTime = 0;
-
-            if (input[0] % 2 != 0)
-            {
-                Console.WriteLine("Still running");
-            }
-            else
-            {
-                for (int i = 1; i < input.Count; i++)
-                {
-                    for (int j = i+1; j < input.Count; j+=2)
-                    {
-                        currentTime = input[j] - input[i];
-
-                        i = j+1;
-
-                        fullTime += currentTime;
-                    }
-                }
-
-                Console.WriteLine(fullTime);
-            }
-
             int numberOfPresses = int.Parse(Console.ReadLine());
 
             int accumelatedTime = 0;
@@ -63,6 +38,7 @@ namespace KattisQstopWatch
                 {
                     timeStamps.Add(int.Parse(Console.ReadLine()));
                 }
+
                 for (int i = 0; i < timeStamps.Count; i++)
                 {
                     for (int j = i+1; j < timeStamps.Count; j+=2)
