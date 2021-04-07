@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuckInATimeLoop", "C#\Stuc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpPhDCandidate", "C#\HelpPhDCandidate\HelpPhDCandidate.csproj", "{984D77A8-1527-4E76-BAA7-DEBE50042928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingForRetirement", "C#\SavingForRetirement\SavingForRetirement.csproj", "{D09FEB2B-F201-4469-8861-0B407820BA9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{984D77A8-1527-4E76-BAA7-DEBE50042928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{984D77A8-1527-4E76-BAA7-DEBE50042928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{984D77A8-1527-4E76-BAA7-DEBE50042928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
