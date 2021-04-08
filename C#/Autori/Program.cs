@@ -7,7 +7,6 @@ namespace Autori
     {
         static void Main(string[] args)
         {
-
             string input = Console.ReadLine();
 
             string indexOfSubstring = "-";
@@ -15,6 +14,7 @@ namespace Autori
             List<int> indicesOfSubstrings = new List<int>();
             int index = 0;
 
+            //om en index ej kan finnas returneras -1
             while((index = input.IndexOf(indexOfSubstring,index)) != -1)
             {
                 indicesOfSubstrings.Add(index + 1);
