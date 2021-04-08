@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KattisQNastyHacks", "C#\Kat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenWonders", "C#\SevenWonders\SevenWonders.csproj", "{3918107D-B565-4E05-BCAD-3EAE20CB2EF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StuckInATimeLoop", "C#\StuckInATimeLoop\StuckInATimeLoop.csproj", "{BFE49F24-1A8C-4469-B420-903D02C9DBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StuckInATimeLoop", "C#\StuckInATimeLoop\StuckInATimeLoop.csproj", "{BFE49F24-1A8C-4469-B420-903D02C9DBF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpPhDCandidate", "C#\HelpPhDCandidate\HelpPhDCandidate.csproj", "{984D77A8-1527-4E76-BAA7-DEBE50042928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpPhDCandidate", "C#\HelpPhDCandidate\HelpPhDCandidate.csproj", "{984D77A8-1527-4E76-BAA7-DEBE50042928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingForRetirement", "C#\SavingForRetirement\SavingForRetirement.csproj", "{D09FEB2B-F201-4469-8861-0B407820BA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SavingForRetirement", "C#\SavingForRetirement\SavingForRetirement.csproj", "{D09FEB2B-F201-4469-8861-0B407820BA9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobExpenses", "C#\JobExpenses\JobExpenses.csproj", "{B82EE20B-E645-4E3C-80E1-289D9640F404}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D09FEB2B-F201-4469-8861-0B407820BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82EE20B-E645-4E3C-80E1-289D9640F404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82EE20B-E645-4E3C-80E1-289D9640F404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82EE20B-E645-4E3C-80E1-289D9640F404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82EE20B-E645-4E3C-80E1-289D9640F404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

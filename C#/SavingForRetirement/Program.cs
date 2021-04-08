@@ -15,7 +15,6 @@ namespace SavingForRetirement
 
             int Btot = (int.Parse(subs[1]) - int.Parse(subs[0])) * int.Parse(subs[2]);
 
-
             while (Atot <= Btot)
             {
                 Atot += int.Parse(subs[4]);
