@@ -79,7 +79,7 @@ namespace VaccineEfficacy
             double efficacy_B = 1 - (infect_Rate_B_Vacc / infect_Rate_B_Not_Vacc);
             double efficacy_C = 1 - (infect_Rate_C_Vacc / infect_Rate_C_Not_Vacc);
 
-            if (efficacy_A < 0)
+            if (efficacy_A <= 0)
             {
                 Console.WriteLine("Not Effective");
             }
@@ -87,7 +87,7 @@ namespace VaccineEfficacy
             {
                 Console.WriteLine((efficacy_A * 100).ToString("N6").Replace(',', '.'));
             }
-            if (efficacy_B < 0)
+            if (efficacy_B <= 0)
             {
                 Console.WriteLine("Not Effective");
             }
@@ -95,7 +95,7 @@ namespace VaccineEfficacy
             {
                 Console.WriteLine((efficacy_B * 100).ToString("N6").Replace(',', '.'));
             }
-            if (efficacy_C < 0)
+            if (efficacy_C <= 0)
             {
                 Console.WriteLine("Not Effective");
             }
