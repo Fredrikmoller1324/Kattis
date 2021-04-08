@@ -11,3 +11,4 @@ Some solutions may be outdated and could be revised.
 [Saving for retirement](https://open.kattis.com/problems/savingforretirement)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/SavingForRetirement/Program.cs)
 [Job Expenses](https://open.kattis.com/problems/jobexpenses)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/JobExpenses/Program.cs)
 [Some Sum](https://open.kattis.com/problems/somesum)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/SomeSum/Program.cs)
+[Vaccine Efficacy](https://open.kattis.com/problems/vaccineefficacy)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/VaccineEfficacy/Program.cs)
