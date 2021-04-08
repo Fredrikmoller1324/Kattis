@@ -19,8 +19,6 @@ namespace DeathKnightHero
                     wonBattles++;
                 }
             }
-                
-            
 
             Console.WriteLine(wonBattles);
         }
