@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-6 Problems | Language
+7 Problems | Language
 ------------ | -------------
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQstopWatch/Program.cs)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQNastyHacks/Program.cs)
@@ -9,3 +9,4 @@ Some solutions may be outdated and could be revised.
 [Stuck in a time-loop](https://open.kattis.com/problems/timeloop)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/StuckInATimeLoop/Program.cs)
 [Help a PhD candidate out](https://open.kattis.com/problems/helpaphd)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/HelpPhDCandidate/Program.cs)
 [Saving for retirement](https://open.kattis.com/problems/savingforretirement)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/SavingForRetirement/Program.cs)
+[Job Expenses](https://open.kattis.com/problems/jobexpenses)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/JobExpenses/Program.cs)
