@@ -27,8 +27,6 @@ namespace SomeSum
                         Console.WriteLine("Even");
                         break;
                 }
-            
-            
         }
     }
 }
