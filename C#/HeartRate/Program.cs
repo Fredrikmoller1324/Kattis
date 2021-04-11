@@ -12,10 +12,6 @@ namespace HeartRate
             {
                 string[] input = Console.ReadLine().Split(' ');
 
-                double test = double.Parse(input[1]);
-
-                Console.WriteLine(test);
-
                 double bpm = 60 * int.Parse(input[0]) / double.Parse(input[1]);
                 double heartVariance = 60 / double.Parse(input[1]);
                 Console.WriteLine($"{Math.Round((bpm - heartVariance),4).ToString().Replace(',','.')} {Math.Round(bpm,4).ToString().Replace(',', '.')} {Math.Round((bpm + heartVariance),4).ToString().Replace(',', '.')}");
