@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartRate", "C#\HeartRate\H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avion", "C#\Avion\Avion.csproj", "{2D795237-04CE-44A3-BC7E-06C27C1E300A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet", "C#\Pet\Pet.csproj", "{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{2D795237-04CE-44A3-BC7E-06C27C1E300A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D795237-04CE-44A3-BC7E-06C27C1E300A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D795237-04CE-44A3-BC7E-06C27C1E300A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
