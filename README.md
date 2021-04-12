@@ -22,4 +22,4 @@ Some solutions may be outdated and could be revised.
 [Encoded message](https://open.kattis.com/problems/encodedmessage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/EncodedMessage/Program.cs)
 [Parking 2](https://open.kattis.com/problems/parking2)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Parking/Program.cs)
 [ABC](https://open.kattis.com/problems/abc)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ABC/Program.cs)
-[Above Avrage](https://open.kattis.com/problems/aboveaverage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/AboveAverage/Program.cs)
+[Above Average](https://open.kattis.com/problems/aboveaverage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/AboveAverage/Program.cs)
