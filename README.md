@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-16 Problems | Language
+17 Problems | Language
 ------------ | -------------
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQstopWatch/Program.cs)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQNastyHacks/Program.cs)
@@ -19,3 +19,4 @@ Some solutions may be outdated and could be revised.
 [Heart Rate](https://open.kattis.com/problems/heartrate)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/HeartRate/Program.cs)
 [Avion](https://open.kattis.com/problems/avion)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Avion/Program.cs)
 [Pet](https://open.kattis.com/problems/pet)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Pet/Program.cs)
+[Encoded message](https://open.kattis.com/problems/encodedmessage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/EncodedMessage/Program.cs)
