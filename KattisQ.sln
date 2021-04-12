@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking", "C#\Parking\Parki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABC", "C#\ABC\ABC.csproj", "{22C4ACBD-DC3D-4FB4-9537-415EC4C83C04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboveAverage", "C#\AboveAverage\AboveAverage.csproj", "{2A922890-0E91-463B-8A8D-DEF71AACC250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{22C4ACBD-DC3D-4FB4-9537-415EC4C83C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C4ACBD-DC3D-4FB4-9537-415EC4C83C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C4ACBD-DC3D-4FB4-9537-415EC4C83C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A922890-0E91-463B-8A8D-DEF71AACC250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A922890-0E91-463B-8A8D-DEF71AACC250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A922890-0E91-463B-8A8D-DEF71AACC250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A922890-0E91-463B-8A8D-DEF71AACC250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
