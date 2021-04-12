@@ -19,7 +19,7 @@ namespace Pet
                 allFullPoints.Add(contestantPointsInts.Sum());
             }
 
-            int contenderWinner = allFullPoints.IndexOf(allFullPoints.Max());
+            int contenderWinner = allFullPoints.IndexOf(allFullPoints.Max()) + 1;
 
             Console.WriteLine($"{contenderWinner} {allFullPoints.Max()}");
         }

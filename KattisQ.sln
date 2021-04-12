@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avion", "C#\Avion\Avion.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pet", "C#\Pet\Pet.csproj", "{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodedMessage", "C#\EncodedMessage\EncodedMessage.csproj", "{9FF8879F-9BFE-4EFC-B1D9-67931CE6D344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45CB145B-CBD8-4AB4-9486-315D04EFA4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF8879F-9BFE-4EFC-B1D9-67931CE6D344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF8879F-9BFE-4EFC-B1D9-67931CE6D344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF8879F-9BFE-4EFC-B1D9-67931CE6D344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF8879F-9BFE-4EFC-B1D9-67931CE6D344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
