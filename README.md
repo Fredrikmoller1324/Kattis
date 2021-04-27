@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-19 Problems | Language
+20 Problems | Language
 ------------ | -------------
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQstopWatch/Program.cs)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQNastyHacks/Program.cs)
@@ -22,3 +22,4 @@ Some solutions may be outdated and could be revised.
 [Encoded message](https://open.kattis.com/problems/encodedmessage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/EncodedMessage/Program.cs)
 [Parking 2](https://open.kattis.com/problems/parking2)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Parking/Program.cs)
 [ABC](https://open.kattis.com/problems/abc)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ABC/Program.cs)
+[Above Average](https://open.kattis.com/problems/aboveaverage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/AboveAverage/Program.cs)
