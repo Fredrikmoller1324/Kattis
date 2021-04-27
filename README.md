@@ -1,7 +1,7 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-21 Problems | Language
+22 Problems | Language
 ------------ | -------------
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQstopWatch/Program.cs)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQNastyHacks/Program.cs)
@@ -24,3 +24,4 @@ Some solutions may be outdated and could be revised.
 [ABC](https://open.kattis.com/problems/abc)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ABC/Program.cs)
 [Above Average](https://open.kattis.com/problems/aboveaverage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/AboveAverage/Program.cs)
 [Line Them Up](https://open.kattis.com/problems/lineup)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/LineThemUp/Program.cs)
+[Free Food](https://open.kattis.com/problems/freefood)|[JS](https://github.com/Fredrikmoller1324/Kattis/blob/main/js/FreeFood/FreeFood.js)
