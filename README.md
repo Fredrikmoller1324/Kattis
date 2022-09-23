@@ -25,3 +25,4 @@ Some solutions may be outdated and could be revised.
 [Above Average](https://open.kattis.com/problems/aboveaverage)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/AboveAverage/Program.cs)
 [Line Them Up](https://open.kattis.com/problems/lineup)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/LineThemUp/Program.cs)
 [Free Food](https://open.kattis.com/problems/freefood)|[JS](https://github.com/Fredrikmoller1324/Kattis/blob/main/js/FreeFood/FreeFood.js)
+[Guess the number](https://open.kattis.com/problems/guess)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/GuessTheNumber/Program.cs)
