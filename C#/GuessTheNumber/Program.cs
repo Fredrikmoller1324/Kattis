@@ -13,24 +13,21 @@ namespace GuessTheNumber
             {
                 var guess = (minValue + maxValue) / 2;
 
-                if(Console.Out != null)
-                    Console.Out.Flush();
-
                 Console.WriteLine(guess);
                 
                 var answer = Console.ReadLine();
 
                 if(answer == "correct")
                 {
-                    return;
+                    break;
+                }
+                else if(answer == "lower")
+                {
+                    maxValue = guess - 1;
                 }
                 else if(answer == "higher")
                 {
                     minValue = guess + 1;
-                }
-                else if(answer == "lower")
-                {
-                    maxValue = guess + 1;
                 }
             }
         }
