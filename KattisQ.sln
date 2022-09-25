@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32901.215
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KattisQstopWatch", "C#\KattisQstopWatch\KattisQstopWatch.csproj", "{A133064D-23B2-44BE-AEEC-85284654B8B7}"
 EndProject
@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABC", "C#\ABC\ABC.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AboveAverage", "C#\AboveAverage\AboveAverage.csproj", "{2A922890-0E91-463B-8A8D-DEF71AACC250}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "C#\GuessTheNumber\GuessTheNumber.csproj", "{923E55C7-4E70-45B9-9B5E-1A18463FF5EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "C#\GuessTheNumber\GuessTheNumber.csproj", "{923E55C7-4E70-45B9-9B5E-1A18463FF5EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting", "C#\Accounting\Accounting.csproj", "{98217738-E9D0-454C-92E7-97D97D4AD9FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accounting", "C#\Accounting\Accounting.csproj", "{98217738-E9D0-454C-92E7-97D97D4AD9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColdPuterScience", "C#\ColdPuterScience\ColdPuterScience.csproj", "{DF57B0D2-9BF5-4FEE-9302-2A952740DC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{98217738-E9D0-454C-92E7-97D97D4AD9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98217738-E9D0-454C-92E7-97D97D4AD9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98217738-E9D0-454C-92E7-97D97D4AD9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF57B0D2-9BF5-4FEE-9302-2A952740DC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF57B0D2-9BF5-4FEE-9302-2A952740DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF57B0D2-9BF5-4FEE-9302-2A952740DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF57B0D2-9BF5-4FEE-9302-2A952740DC17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
