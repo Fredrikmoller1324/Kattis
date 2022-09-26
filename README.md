@@ -1,10 +1,11 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-26 Problems | Language
+27 Problems | Language
 ------------ | -------------
 [Accounting](https://open.kattis.com/problems/bokforing)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Accounting/Program.cs)
 [ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ACMContestScoring/Program.cs)
+[A Furious Cocktail](https://open.kattis.com/problems/cocktail)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/FuriousCocktail/Program.cs)
 [Cold-puter Science](https://open.kattis.com/problems/cold)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ColdPuterScience/Program.cs)
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQstopWatch/Program.cs)
 [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/KattisQNastyHacks/Program.cs)
