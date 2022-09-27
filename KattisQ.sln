@@ -49,11 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColdPuterScience", "C#\Cold
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACMContestScoring", "C#\ACMContestScoring\ACMContestScoring.csproj", "{8F8AB2D1-FCF1-4EE5-86B7-F6F7671E6775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuriousCocktail", "C#\FuriousCocktail\FuriousCocktail.csproj", "{2E817B5F-D361-45C7-A020-ECF4A7399C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuriousCocktail", "C#\FuriousCocktail\FuriousCocktail.csproj", "{2E817B5F-D361-45C7-A020-ECF4A7399C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ants", "C#\Ants\Ants.csproj", "{A4C9EDC1-E949-4F9B-80BF-CBF84DDE2DE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ants", "C#\Ants\Ants.csproj", "{A4C9EDC1-E949-4F9B-80BF-CBF84DDE2DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APrizeNoOneCanWin", "C#\APrizeNoOneCanWin\APrizeNoOneCanWin.csproj", "{0BEF7C4C-28FD-4A85-95CF-42A6D7E505A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APrizeNoOneCanWin", "C#\APrizeNoOneCanWin\APrizeNoOneCanWin.csproj", "{0BEF7C4C-28FD-4A85-95CF-42A6D7E505A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOfDiscord", "C#\ArrayOfDiscord\ArrayOfDiscord.csproj", "{F6EBA39A-1055-47FC-9780-FEF9E63C438F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apaxians", "C#\Apaxians\Apaxians.csproj", "{90FF9F7D-D68F-4748-9785-45D8FBC5751D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{0BEF7C4C-28FD-4A85-95CF-42A6D7E505A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEF7C4C-28FD-4A85-95CF-42A6D7E505A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEF7C4C-28FD-4A85-95CF-42A6D7E505A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EBA39A-1055-47FC-9780-FEF9E63C438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EBA39A-1055-47FC-9780-FEF9E63C438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EBA39A-1055-47FC-9780-FEF9E63C438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EBA39A-1055-47FC-9780-FEF9E63C438F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90FF9F7D-D68F-4748-9785-45D8FBC5751D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FF9F7D-D68F-4748-9785-45D8FBC5751D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FF9F7D-D68F-4748-9785-45D8FBC5751D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FF9F7D-D68F-4748-9785-45D8FBC5751D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
