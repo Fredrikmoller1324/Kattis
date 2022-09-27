@@ -1,9 +1,10 @@
 # Kattis Solutions
 Some solutions may be outdated and could be revised.
 
-30 Problems | Language
+31 Problems | Language
 ------------ | -------------
 [Accounting](https://open.kattis.com/problems/bokforing)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Accounting/Program.cs)
+[Akcija](https://open.kattis.com/problems/akcija)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Akcija/Program.cs)
 [ACM Contest Scoring](https://open.kattis.com/problems/acm)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/ACMContestScoring/Program.cs)
 [A Furious Cocktail](https://open.kattis.com/problems/cocktail)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/FuriousCocktail/Program.cs)
 [Apaaaaxxians!](https://open.kattis.com/problems/apaxiaaans)|[C#](https://github.com/Fredrikmoller1324/Kattis/blob/main/C%23/Apaxians/Program.cs)
